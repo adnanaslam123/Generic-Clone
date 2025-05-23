@@ -25,7 +25,7 @@ const Nav = () => {
         </ul>
       </aside>
       <aside className="w-full flex justify-center items-center">
-        <button className="bg-[#2a9d8f] text-white py-3 px-7 font-medium ">CALL TO ACTION</button>
+        <button className="bg-[#2a9d8f] text-white py-3 px-7 font-medium cursor-pointer">CALL TO ACTION</button>
       </aside>
     </nav>
   </>

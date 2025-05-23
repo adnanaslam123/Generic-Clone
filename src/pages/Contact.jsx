@@ -35,7 +35,7 @@ const Contact = () => {
                         <img src={youtube} alt="" className='w-[20px]' />
                     </div>
                 </div>
-                <div className='w-[50%] flex flex-col p-15 bg-white -mt-25'>
+                <div className='w-[50%] flex flex-col p-15 bg-white -mt-25 pb-20'>
                     <p className='text-xl text-gray-500'>{'Prefix for the Contact Form section will be here'.toUpperCase()}</p>
                     <h1 className='text-2xl font-medium tracking-wide my-10'>Short heading for the Contact Form Section Will be Here</h1>
                     <form action="" className='flex flex-col'>
