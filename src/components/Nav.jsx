@@ -18,7 +18,7 @@ const Nav = () => {
           {
             links.map((link, index) => {
               return <Fragment key={index}>
-                <li className="text-sm font-medium text-white"><Link to={link.to}>{link.label}</Link></li>
+                <li className="text-sm font-medium text-white hover:text-teal-500"><Link to={link.to}>{link.label}</Link></li>
               </Fragment>
             })
           }
