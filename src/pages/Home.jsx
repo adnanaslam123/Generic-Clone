@@ -3,7 +3,7 @@ import React from 'react'
 function Home() {
   return (
     <>
-     <div className="relative p-31 w-full overflow-hidden font-sans">
+     <div className="relative top-0 p-31 w-full overflow-hidden font-sans">
         {/* Blurred Background */}
         <div className="absolute inset-0 h-full bg-[url('/assets/hero-bg.jpg')] bg-cover bg-center filter  brightness-19"></div>
 
